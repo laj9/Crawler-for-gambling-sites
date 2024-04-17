@@ -1,2 +1,2 @@
-# Innovation-and-entrepreneurship-competition-for-college-students
-大学生创新创业项目--爬虫部分
+# Crawler for gambling sites
+大学生创新创业项目--针对赌博网站的爬虫
